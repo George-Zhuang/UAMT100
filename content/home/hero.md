@@ -15,14 +15,14 @@ cta:
   icon_pack: fas
   icon: download
 
-# cta_alt:
-#   url: docs/
-#   label: View Documentation
+cta_alt:
+  url: docs/
+  label: View Documentation
 # cta_note:
-#   label: >-
-#     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-#       Show your product version here:<!-- Automatically filled based on data-repo value -->
-#     </span>
+#  label: >-
+#    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
+#      Show your product version here:<!-- Automatically filled based on data-repo value -->
+#    </span>
 
 # cta:
 #   url: https://github.com/vision4robotics/SiamSA
@@ -38,7 +38,7 @@ cta:
 
 A  benchmark for  UAM tracking method evaluation. 
 
-<a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/vision4robotics/SiamSA" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UAMT100 benchmark project">UAMT100 benchmark project</a><script async defer src="https://buttons.github.io/buttons.js"></script>
 
 UAMT100 benchmark contains 100 image sequences recorded on a flying UAM platform. The videos are taken in an indoor environment with 12× Flex 13 [OptiTrack](https://optitrack.com/) cameras for motion capture. UAMT100 benchmark covers common challenges of UAV tracking and also introduces attributes peculiar to practical UAM tracking.
 
