@@ -36,7 +36,7 @@ cta:
 #   icon: Video
 ---
 
-A new benchmark for evaluation of UAM tracking methods. 
+A  benchmark for  UAM tracking method evaluation. 
 
 <a class="github-button" href="[vision4robotics/SiamSA: Official code for 'Robust Siamese Object Tracking for Unmanned Aerial Manipulator' and offical introduction to UAMT100 benchmark (github.com)](https://github.com/vision4robotics/SiamSA)" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UAMT100 benchmark project">UAMT100 benchmark project</a><br>
 
