@@ -9,21 +9,21 @@ design:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
     text_color_light: true
-cta:
+-cta:
   url: https://github.com/vision4robotics/SiamSA
   label: UAMT100 dataset
   icon_pack: fas
   icon: download
-
+-cta:
   url: https://github.com/vision4robotics/SiamSA
   label: Project
   icon_pack: fas
   icon: Github
-
-  # url: https://youtu.be/XsWBu9hoJp0
-  # label: Video
-  # icon_pack: fas
-  # icon: YouTube
+-cta:
+  url: https://youtu.be/XsWBu9hoJp0
+  label: Video
+  icon_pack: fas
+  icon: Video
 # cta_alt:
 #   url: docs/
 #   label: View Documentation
