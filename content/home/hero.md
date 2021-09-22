@@ -39,7 +39,7 @@ cta:
 A new benchmark for evaluation of UAM tracking methods. 
 
 
-<a class="github-button" href="https://github.com/vision4robotics/SiamSA" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Official introduction to UAMT100 benchmark project">Official introduction to UAMT100 benchmark project</a><br>
+<a class="github-button" href="https://github.com/vision4robotics/SiamSA" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UAMT100 benchmark project">UAMT100 benchmark project</a><br>
 <!-- <a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
 
 {{< icon name="github" pack="fas" >}} View our [project](https://github.com/vision4robotics/SiamSA)
