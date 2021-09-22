@@ -20,10 +20,10 @@ cta:
   icon_pack: fas
   icon: Github
 
-    url: https://youtu.be/XsWBu9hoJp0
-  label: Video
-  icon_pack: fas
-  icon: YouTube
+  # url: https://youtu.be/XsWBu9hoJp0
+  # label: Video
+  # icon_pack: fas
+  # icon: YouTube
 # cta_alt:
 #   url: docs/
 #   label: View Documentation
