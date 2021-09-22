@@ -36,7 +36,7 @@ cta_alt:
 #   icon: Video
 ---
 
-A  benchmark for  UAM tracking method evaluation. 
+A  benchmark for  UAM tracking method evaluation
 
 <font size=4>UAMT100 benchmark contains 100 image sequences recorded on a flying UAM platform. The videos are taken in an indoor environment with 12× Flex 13 [OptiTrack](https://optitrack.com/) cameras for motion capture. UAMT100 benchmark covers common challenges of UAV tracking and also introduces attributes peculiar to practical UAM tracking.
 
