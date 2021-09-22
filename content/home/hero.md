@@ -36,13 +36,9 @@ cta:
 #   icon: Video
 ---
 
---A new benchmark for evaluation of UAM tracking methods. 
+A new benchmark for evaluation of UAM tracking methods. 
 
+<a class="github-button" href="[vision4robotics/SiamSA: Official code for 'Robust Siamese Object Tracking for Unmanned Aerial Manipulator' and offical introduction to UAMT100 benchmark (github.com)](https://github.com/vision4robotics/SiamSA)" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UAMT100 benchmark project">UAMT100 benchmark project</a><br>
 
-<a class="github-button" href="https://github.com/vision4robotics/SiamSA" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="UAMT100 benchmark project">UAMT100 benchmark project</a><br>
-<!-- <a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
+UAMT100 benchmark contains 100 image sequences recorded on a flying UAM platform. The videos are taken in an indoor environment with 12× Flex 13 [OptiTrack](https://optitrack.com/) cameras for motion capture. UAMT100 benchmark covers common challenges of UAV tracking and also introduces attributes peculiar to practical UAM tracking.
 
-<!-- {{< icon name="Github" pack="fas" >}} View our [project](https://github.com/vision4robotics/SiamSA)
-{{< icon name="video" pack="fas" >}} View our [video](https://github.com/vision4robotics/SiamSA) on Youtube -->
-
-UAMT100 benchmark contains 100 image sequences recorded on a flying UAM platform. The videos are taken in an indoor environment with 12× Flex 13 OptiTrack cameras for motion capture. UAMT100 benchmark covers common challenges of UAV tracking and also introduces attributes peculiar to practical UAM tracking, *e.g.*, UAM attack and wind disturbance.
