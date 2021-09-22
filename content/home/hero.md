@@ -34,6 +34,8 @@ cta:
 #   label: Video
 #   icon_pack: fas
 #   icon: Video
+{{< icon name="github" pack="fas" >}} View our [project](https://github.com/vision4robotics/SiamSA)
+{{< icon name="video" pack="fas" >}} View our [video](https://github.com/vision4robotics/SiamSA) on Youtube
 ---
 
 A new benchmark for evaluation of UAM tracking methods. 
