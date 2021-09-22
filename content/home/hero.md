@@ -10,18 +10,29 @@ design:
     gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: docs/
-  label: Get Started
+  url: https://github.com/vision4robotics/SiamSA
+  label: UAMT100 dataset
   icon_pack: fas
   icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      Show your product version here:<!-- Automatically filled based on data-repo value -->
-    </span>
+# cta_alt:
+#   url: docs/
+#   label: View Documentation
+# cta_note:
+#   label: >-
+#     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
+#       Show your product version here:<!-- Automatically filled based on data-repo value -->
+#     </span>
+cta:
+  url: https://github.com/vision4robotics/SiamSA
+  label: Project
+  icon_pack: fas
+  icon: Github
+cta:
+  url: https://youtu.be/XsWBu9hoJp0
+  label: Video
+  icon_pack: fas
+  icon: YouTube
+
 ---
 
 A new benchmark for evaluation of UAM tracking methods. 
