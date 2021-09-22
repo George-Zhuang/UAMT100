@@ -17,7 +17,7 @@ cta:
 
 cta_alt:
   url: https://pan.baidu.com/s/1f6ytf9ZYtg9ff8J_PuznLw
-  label: BaiduYun (code: v4r0)
+  label: BaiduYun (code:v4r0)
 # cta_note:
 #  label: >-
 #    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">

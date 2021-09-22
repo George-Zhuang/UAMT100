@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
-title: <font size=8>Features
+title: Details
 subtitle: Document _anything_ ✨
 feature:
   - icon: book-open
