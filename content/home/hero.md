@@ -39,5 +39,7 @@ cta:
 A new benchmark for evaluation of UAM tracking methods. 
 
 
-<a class="github-button" href="https://github.com/vision4robotics/SiamSA" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Official introduction to UAMT100 benchmark project">Star Wowchemy Website Builder for Hugo</a><br>
-<a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/vision4robotics/SiamSA" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Official introduction to UAMT100 benchmark project">Official introduction to UAMT100 benchmark project</a><br>
+<!-- <a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
+
+UAMT100 benchmark contains 100 image sequences recorded on a flying UAM platform. The videos are taken in an indoor environment with 12× Flex 13 OptiTrack cameras for motion capture. UAMT100 benchmark covers common challenges of UAV tracking and also introduces attributes peculiar to practical UAM tracking, *e.g.*, UAM attack and wind disturbance.
