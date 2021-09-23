@@ -14,13 +14,11 @@ cta:
   label: UAMT100 dataset
   icon_pack: fas
   icon: download
-
 cta_alt:
   url: https://pan.baidu.com/s/1f6ytf9ZYtg9ff8J_PuznLw
   label: BaiduYun (pw:v4r0)
 cta_note:
-  url: docs/
-  label: To use UAMT100 benchmark, please cite this
+  label: To use UAMT100 benchmark, please cite [this](https://uamt100.netlify.app/docs/cite/)
 
 # cta:
 #   url: https://github.com/vision4robotics/SiamSA
