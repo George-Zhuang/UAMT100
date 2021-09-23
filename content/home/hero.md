@@ -19,7 +19,7 @@ cta_alt:
   url: https://pan.baidu.com/s/1f6ytf9ZYtg9ff8J_PuznLw
   label: BaiduYun (pw:v4r0)
 cta_note:
-  url: docs/Cite
+  url: docs/
   label: To use UAMT100 benchmark, please cite this
 
 # cta:
