@@ -19,7 +19,6 @@ subtitle: Document _anything_ ✨
 #     description: For yourself
 ---
 
-<img src="features.assets/dataset.png" style="zoom: 67%;" />
-
-<img src="features.assets/overall_UAMT100_error_OPE.png" style="zoom: 33%;" /><img src="features.assets/overall_UAMT100_overlap_OPE-16323588382651.png" style="zoom: 33%;" />
+![](/images/dataset.png)
+![](/images/overall_UAMT100_error_OPE.png)![](/images/overall_UAMT100_overlap_OPE.png)
 
