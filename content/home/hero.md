@@ -17,12 +17,10 @@ cta:
 
 cta_alt:
   url: https://pan.baidu.com/s/1f6ytf9ZYtg9ff8J_PuznLw
-  label: BaiduYun (code:v4r0)
-# cta_note:
-#  label: >-
-#    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-#      Show your product version here:<!-- Automatically filled based on data-repo value -->
-#    </span>
+  label: BaiduYun (pw:v4r0)
+cta_note:
+  url: docs/chapter3
+  label: To use UAMT100 benchmark, please cite this
 
 # cta:
 #   url: https://github.com/vision4robotics/SiamSA

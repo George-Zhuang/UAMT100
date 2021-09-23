@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: featurette
 headless: true
 weight: 20
@@ -18,7 +18,6 @@ subtitle: Document _anything_ ✨
 #     name: Personal Notebook
 #     description: For yourself
 ---
+ -->
 
-![](/images/dataset.png)
-![](/images/overall_UAMT100_error_OPE.png)![](/images/overall_UAMT100_overlap_OPE.png)
 
