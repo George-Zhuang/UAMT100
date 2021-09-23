@@ -3,7 +3,7 @@
 linktitle: Evaluation and Comparison 
 summary: Evaluation and comparison of state-of-the-art tracking methods on UAMT100 benchmark.
 weight: 1
-icon: book-reader
+icon: book
 icon_pack: fas
 
 # Page metadata.
