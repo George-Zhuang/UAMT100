@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: UAMT100 benchmark
-hero_media: UAMT.jpg
+hero_media: SiamSA.gif
 design:
   background:
     gradient_start: '#4bb4e3'
