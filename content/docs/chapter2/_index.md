@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Evaluation and Comparison 
 summary: Evaluation and comparison of state-of-the-art tracking methods on UAMT100 benchmark.
-weight: 1
+weight: 2
 icon: book
 icon_pack: fas
 

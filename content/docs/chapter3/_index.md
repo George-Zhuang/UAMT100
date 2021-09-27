@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Acknowledgement 
 summary: Acknowledgement 
-weight: 1
+weight: 4
 icon: book
 icon_pack: fas
 

@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Cite
 summary: To use UAMT100 benchmark, please cite this
-weight: 1
+weight: 3
 icon: book-reader
 icon_pack: fas
 
