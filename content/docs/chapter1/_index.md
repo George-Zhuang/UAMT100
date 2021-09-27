@@ -14,7 +14,7 @@ type: book  # Do not modify.
 
 ## UAMT100 dataset
 
-![](/images/system.png)
+![](/images/system.jpg)
 
 The UAMT100 benchmark is designed for evaluation of  UAM tracking methods. It consists of 100 image sequences, which are captured from UAM perspectives. For subsequent tasks of UAM tracking, such as grasping, it represents various possibilities of UAM’s tracking the object in an indoor environment. 16 kinds of objects are involved, and 11 attributes are annotated for each sequence. The objects include ball, battery, bear (toy), bottle, box, duck (toy), express, gate (model), milk, minions, pen, penholder, and radar. The videos are recorded at 10 frames per second (fps), with the JPG image resolution of 800×600 pixels.
 
