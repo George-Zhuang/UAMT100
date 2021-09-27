@@ -1,10 +1,13 @@
 ---
-title: Docs
+title: Details
 type: book  # Do not modify.
 toc: false
 ---
 
 The official introduction to UAMT100 benchmark.
+
+![](/images/SiamSA.gif)
+
 To learn about UAMT100 benchmark, please refer to this introduction.
 {{< cta cta_text="👉 A brief introduction" cta_link="chapter1" >}}
 If you want to use this benchmark, please cite out work.
