@@ -10,7 +10,7 @@ The official introduction to UAMT100 benchmark.
 
 ![](/images/SiamSA.gif)
 
-📹 A real-world test of SiamSA on a flying UAM platform form both first and third perspectives.
+📹 A real-world test form both first and third perspectives.
 
 ## Details
 
